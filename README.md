@@ -42,7 +42,7 @@ O **FIAP Labs** é um app mobile que permite ao aluno:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/fiap-mdi-cp1-labs-app.git
+git clone https://github.com/yRaffa/fiap-mdi-cp1-labs-app
 
 # 2. Entre na pasta
 cd fiap-mdi-cp1-labs-app
